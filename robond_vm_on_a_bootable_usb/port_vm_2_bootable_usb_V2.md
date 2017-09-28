@@ -1,8 +1,7 @@
 # Guide to Port the RoboND VM to a Bootable USB drive V2
 
-## Updated!
-This is an update from the older guide I made. This guide is simple and works on Windows, MacOS,
-and Ubuntu. If you have any trouble with this guide, I am `@robottrainer` on the [RoboND Slack][roboslack]
+## Intro
+This guide is simple and works on Windows, MacOS, and Ubuntu. If you have any trouble with this guide, I am `@robottrainer` on the [RoboND Slack][roboslack]
 
 ## Why do this?
 Lot of classmates in RoboND are experiencing slow and laggy performance of Gazebo inside the VM.

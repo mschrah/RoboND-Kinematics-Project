@@ -1,5 +1,9 @@
 # Guide to Port the RoboND VM to a Bootable USB drive
 
+## Update! - This guide is outdated!
+
+## For an updated and much simpler guide with instructions for Windows, MacOS, and Ubuntu goto [Version 2](port_vm_2_bootable_usb_V2.md)
+
 ## Why do this?
 Lot of classmates in RoboND are experiencing slow and laggy performance of Gazebo inside the VM.
 Some of us tried to solve this by installing ROS natively on Ubuntu. However, it is a lot of steps and

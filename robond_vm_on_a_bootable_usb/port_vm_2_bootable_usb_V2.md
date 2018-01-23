@@ -229,6 +229,8 @@ So, if we make a mistake, we can always use `q` to quit without making any perma
 We are going to use the commands `fdisk`, `swapon`, and `swapoff` in this section.
 First, let's take a look at our partition table.
 
+**Note**: Please modify the `sudo fdisk /dev/sda` command below according to your system. Here, `/dev/sda` is my usb drive. It can be different from `/dev/sda` on your system. It is usually in the format `/dev/sdx`. Please use `sudo fdisk -l` command to find out the correct letter of your usb drive on your system before proceeding.
+
 ```bash
 robond@udacity:~$ sudo fdisk /dev/sda
 
